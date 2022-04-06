@@ -1,6 +1,6 @@
 # CEE201 - Systems Engineering and Economics
 ### University of Illinois at Urbana-Champaign CEE201 coding examples
-### Linear Programming Jupyter Notebooks (Spring 2020)
+### Linear Programming Jupyter Notebooks (Spring 22 & 20)
 Click the following link to practice with the examples that we have seen in class:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ekontou/CEE201/master)
 
 The [LPGraphing](https://github.com/ekontou/CEE201/tree/master/LPGraphing) folder includes a linear programming example with graphical solution.
